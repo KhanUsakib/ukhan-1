@@ -113,6 +113,7 @@ padding-top: 116.5px ;
   justify-content: space-around;
   justify-content: flex-start;
   align-items: center;
+  gap: 4px;
 }
 .banner .skib .btn-1{
   background: rgba(70, 145, 101, 1);
