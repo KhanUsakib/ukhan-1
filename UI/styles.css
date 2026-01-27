@@ -245,3 +245,69 @@ cursor: pointer;
      transform: translateY(-8px);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
 }
+.brain .brain-content{
+  display: flex;
+  justify-content: space-around;
+  padding: 120px;
+  margin: 120px 120px 120px 120px;
+  gap: 40px;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid red;
+  background: rgba(255, 255, 255, 1);
+}
+.brain-content .b-img{
+  border-radius: 12px;
+background: url(../assets/knowledge.png);
+}
+.b-img{
+border-radius: 12px;
+}
+.brain-part h5{
+color:#30B868; 
+font-style: Medium;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+
+}
+.brain-part h1{
+color: #001931;
+font-family: Inter;
+font-style: Bold;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+.brain-part p{
+color:#627382;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.info .info-card ul{
+list-style: none;
+display: flex;
+align-items: center;
+text-decoration: none;
+flex-direction: row;
+justify-content: flex-start;
+gap: 6;
+}
+.info .info-card img{
+  width: 20px;
+  height: 20px;
+  padding: 1.88px 1.88px 1.88px 1.88px;
+}
+.info-card li{
+  padding-left: 0;
+  list-style-type: none;
+}
