@@ -250,7 +250,7 @@ cursor: pointer;
   background: rgba(255, 255, 255, 1);
 }
 .brain-content .b-img{
-border-radius: 12px;
+  border-radius: 12px;
 background: url(../assets/knowledge.png);
 }
 .b-img{
