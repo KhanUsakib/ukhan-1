@@ -48,7 +48,7 @@ nav .btn{
 .banner {
   width: 100%;
   min-height: 655px;
-  background: url(./asset/hero-bg.png) no-repeat center center;
+  background: url(/assets/hero-bg.png) no-repeat center center;
   background-size: cover;
   display: flex;
   align-items: center;
