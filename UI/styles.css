@@ -48,7 +48,7 @@ nav .btn{
 .banner {
   width: 100%;
   min-height: 655px;
-  background: url("../assets/hero-bg.png") no-repeat center center;
+  background: url(../assets/hero-bg.png) no-repeat center center;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -162,10 +162,6 @@ gap: 6px;
   flex-direction: column;
   margin: 0px 120px 120px 120px;
   gap: 44px;
-}
-.btn-1:hover,
-.btn-2:hover {
-  transform: translateY(-4px);
 }
 
 .icon-container .heading{
