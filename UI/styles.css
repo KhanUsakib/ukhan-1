@@ -251,7 +251,7 @@ cursor: pointer;
 }
 .brain-content .b-img{
   border-radius: 12px;
-background: url(../assets/knowledge.png);
+background: url(/assets/knowledge.png);
 }
 .b-img{
 border-radius: 12px;
