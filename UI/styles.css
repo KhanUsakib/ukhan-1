@@ -48,7 +48,7 @@ nav .btn{
 .banner {
   width: 100%;
   min-height: 655px;
-  background: url(/assets/hero-bg.png) no-repeat center center;
+  background: url(../assets/hero-bg.png) no-repeat center center;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -250,8 +250,8 @@ cursor: pointer;
   background: rgba(255, 255, 255, 1);
 }
 .brain-content .b-img{
-  border-radius: 12px;
-background: url(/assets/knowledge.png);
+border-radius: 12px;
+background: url(../assets/knowledge.png);
 }
 .b-img{
 border-radius: 12px;
